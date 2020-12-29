@@ -1,0 +1,4 @@
+.vscode/settings.json
+lib/timerMapLib.a
+obj/TimerMap.o
+test
